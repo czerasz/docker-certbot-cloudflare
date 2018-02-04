@@ -1,4 +1,4 @@
-# Docker Certbot Cron Image with Cloudflare integration
+# Docker Certbot Image with Cloudflare integration
 
 ## Environment Variables
 
